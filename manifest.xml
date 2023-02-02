@@ -25,6 +25,7 @@
             <name>IBluetoothHci</name>
             <instance>default</instance>
         </interface>
+    </hal>
     <hal format="hidl">
         <name>android.hardware.biometrics.fingerprint</name>
         <transport>hwbinder</transport>
